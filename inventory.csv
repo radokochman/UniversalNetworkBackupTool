@@ -1,0 +1,4 @@
+Hostname;IP;Device type;Backup command
+SW1;192.168.146.131;cisco_ios;show run
+SW2;192.168.146.132;cisco_nxos;show run
+SW3;192.168.146.133;cisco_ios;show run
